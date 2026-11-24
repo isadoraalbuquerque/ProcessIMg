@@ -109,7 +109,7 @@ Os cadernos em `notebooks/` são numerados por passo do plano (`05_canais.ipynb`
 - Melhor caso: ISIC_0000145 (IoU 0,987; Dice 0,994). Pior caso: ISIC_0014346 (IoU 0,011) — lesão de 1,1% da imagem; os três piores casos compartilham o padrão de falha "lesão pequena → inundação".
 - Números completos em `resultados/` (`tabela_final.csv`, `tabela_metricas.csv`, `resumo_canais.csv`, `melhores_piores.csv`).
 
-## Implementações próprias (diferencial)
+## Implementações próprias 
 
 As seguintes operações foram implementadas do zero com NumPy e **validadas contra as equivalentes do OpenCV**, seguindo a preferência do professor por soluções desenvolvidas do zero:
 
