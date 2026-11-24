@@ -1,0 +1,8 @@
+# Dependências diretas de execução do projeto.
+# Fotografia completa do ambiente (com as transitivas): requirements-freeze.txt
+numpy==2.5.5
+opencv-python-headless==5.0.0.93
+matplotlib==3.11.2
+# Para abrir os cadernos de exploração em notebooks/:
+jupyterlab==4.6.6
+ipykernel==7.4.0

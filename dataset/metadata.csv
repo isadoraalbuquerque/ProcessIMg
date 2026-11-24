@@ -1,0 +1,41 @@
+nome,base,formato,resolucao,area_lesao_frac,contraste,observacoes
+ISIC_0012940.jpg,ISIC 2017,JPG,3872x2592,0.0322,0.0482,baixo contraste; lesao pequena
+ISIC_0013695.jpg,ISIC 2017,JPG,4288x2848,0.0505,0.0646,baixo contraste; resolucao muito alta
+ISIC_0008993.jpg,ISIC 2017,JPG,3024x2016,0.0710,0.0630,baixo contraste
+ISIC_0014001.jpg,ISIC 2017,JPG,4288x2848,0.1180,0.0448,baixo contraste; resolucao muito alta
+ISIC_0006982.jpg,ISIC 2017,JPG,3024x2016,0.1870,0.0492,baixo contraste
+ISIC_0013618.jpg,ISIC 2017,JPG,4288x2848,0.2884,0.0490,baixo contraste; resolucao muito alta
+ISIC_0009925.jpg,ISIC 2017,JPG,1024x768,0.3145,0.0656,baixo contraste; lesao grande
+ISIC_0000149.jpg,ISIC 2017,JPG,2048x1536,0.5174,0.0752,baixo contraste; lesao grande
+ISIC_0000160.jpg,ISIC 2017,JPG,722x540,0.7086,0.0512,baixo contraste; lesao grande; resolucao baixa
+ISIC_0013517.jpg,ISIC 2017,JPG,4288x2848,0.0127,0.0879,lesao pequena; resolucao muito alta
+ISIC_0012856.jpg,ISIC 2017,JPG,3872x2592,0.0251,0.0879,lesao pequena
+ISIC_0012259.jpg,ISIC 2017,JPG,4288x2848,0.0385,0.1207,lesao pequena; resolucao muito alta
+ISIC_0013559.jpg,ISIC 2017,JPG,3008x2000,0.0475,0.1535,lesao pequena
+ISIC_0010104.jpg,ISIC 2017,JPG,1024x768,0.0508,0.1735,caso tipico
+ISIC_0014185.jpg,ISIC 2017,JPG,4288x2848,0.0736,0.1111,resolucao muito alta
+ISIC_0013706.jpg,ISIC 2017,JPG,3872x2592,0.1042,0.0866,caso tipico
+ISIC_0013198.jpg,ISIC 2017,JPG,3008x2000,0.1587,0.0887,caso tipico
+ISIC_0010358.jpg,ISIC 2017,JPG,1024x768,0.1882,0.1435,caso tipico
+ISIC_0010350.jpg,ISIC 2017,JPG,1024x768,0.2842,0.1600,caso tipico
+ISIC_0000549.jpg,ISIC 2017,JPG,824x719,0.3467,0.1326,lesao grande; resolucao baixa
+ISIC_0015200.jpg,ISIC 2017,JPG,6661x4422,0.7021,0.0810,lesao grande; resolucao muito alta
+ISIC_0014346.jpg,ISIC 2017,JPG,4288x2848,0.0111,0.2531,alto contraste; lesao pequena; resolucao muito alta
+ISIC_0013032.jpg,ISIC 2017,JPG,3008x2000,0.0493,0.2353,alto contraste; lesao pequena
+ISIC_0013390.jpg,ISIC 2017,JPG,4288x2848,0.0581,0.2018,alto contraste; resolucao muito alta
+ISIC_0010206.jpg,ISIC 2017,JPG,1024x768,0.0770,0.3908,alto contraste
+ISIC_0000069.jpg,ISIC 2017,JPG,1022x767,0.1278,0.2014,alto contraste
+ISIC_0000218.jpg,ISIC 2017,JPG,1502x1016,0.2337,0.2244,alto contraste
+ISIC_0009969.jpg,ISIC 2017,JPG,1024x768,0.2950,0.2155,alto contraste
+ISIC_0000145.jpg,ISIC 2017,JPG,2048x1536,0.3026,0.3168,alto contraste; lesao grande
+ISIC_0000204.jpg,ISIC 2017,JPG,1456x1018,0.5055,0.2527,alto contraste; lesao grande
+PH2_IMD045.bmp,PH2,BMP,765x573,0.0908,0.0697,baixo contraste; resolucao baixa
+PH2_IMD378.bmp,PH2,BMP,767x576,0.5037,0.0758,baixo contraste; lesao grande; resolucao baixa
+PH2_IMD419.bmp,PH2,BMP,768x576,0.8035,0.0427,baixo contraste; lesao grande; resolucao baixa
+PH2_IMD092.bmp,PH2,BMP,769x575,0.0314,0.1794,lesao pequena; resolucao baixa
+PH2_IMD372.bmp,PH2,BMP,765x575,0.1577,0.1394,resolucao baixa
+PH2_IMD211.bmp,PH2,BMP,768x576,0.2946,0.1490,resolucao baixa
+PH2_IMD065.bmp,PH2,BMP,767x576,0.6902,0.0852,lesao grande; resolucao baixa
+PH2_IMD204.bmp,PH2,BMP,764x575,0.0427,0.2545,alto contraste; lesao pequena; resolucao baixa
+PH2_IMD016.bmp,PH2,BMP,765x573,0.1683,0.2534,alto contraste; resolucao baixa
+PH2_IMD057.bmp,PH2,BMP,767x576,0.4106,0.2014,alto contraste; lesao grande; resolucao baixa

@@ -1,0 +1,7 @@
+classificacao,nome,iou,dice,area_px,observacao
+melhor,ISIC_0000145.jpg,0.9871,0.9935,941853,alto contraste; lesao grande; área=30.3%
+melhor,ISIC_0013618.jpg,0.9522,0.9755,3545823,baixo contraste; resolucao muito alta; área=28.8%
+melhor,PH2_IMD057.bmp,0.9427,0.9705,191323,alto contraste; lesao grande; resolucao baixa; área=41.1%; lesão toca a borda
+pior,ISIC_0013390.jpg,0.0797,0.1476,8901167,alto contraste; resolucao muito alta; área=5.8%
+pior,ISIC_0012940.jpg,0.0340,0.0658,9516157,baixo contraste; lesao pequena; área=3.2%
+pior,ISIC_0014346.jpg,0.0111,0.0219,12188768,alto contraste; lesao pequena; resolucao muito alta; área=1.1%
